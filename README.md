@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnilReddy216
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning softwaretechnologies
-- 💞️ I’m looking to collaborate on a reputed company
+- 🌱 I’m currently learning software technologies
+- 💞️ I’m looking to collaborate with a reputed company
 - 📫 reach me through maker.mad216@gmail.com
 
 <!---
